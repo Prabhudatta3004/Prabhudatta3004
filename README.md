@@ -1,10 +1,10 @@
 
 - 👋 Hi, I’m Prabhudatta Mishra.Glad you dropped by to check out my profile
-- 👀 I’m interested in Data Science,Machine learning and AI
+- 👀 I’m interested in Data Science,Machine learning and AI,IOT
 - 🌱 I’m currently learning machine learning,IOT,Data science
-- 💞️ I’m looking to collaborate on Projects,Tech Articles
+- 💞️ I’m looking to collaborate on Projects
 -  👨‍💻 I'm currently working on projects based on ML and AI
--💬 Talk to me about C,java,Python,internships and projects
+-💬 Talk to me about C,java,Python,IOT,internships and projects
 
 
 <!---
