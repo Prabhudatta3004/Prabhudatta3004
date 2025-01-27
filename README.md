@@ -6,17 +6,7 @@
 
 
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhudatta3004&show_icons=true&theme=radical)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhudatta3004&layout=compact&theme=radical)
-
-## 🔥 GitHub Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhudatta3004&theme=radical)
 <!---
 Prabhudatta3004/Prabhudatta3004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
